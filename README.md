@@ -2,6 +2,8 @@
 
 I'm a Brazilian software engineer working on systems with complex business rules. Much of my work involves understanding existing software, investigating problems, and improving it with care for data integrity.
 
+I bring that same approach to AI-assisted development: exploring ideas, questioning assumptions, reviewing the code, and testing what actually works.
+
 PHP and Laravel are central to my work. My personal projects grow out of photography, reading, and things I want to make easier.
 
 ### Things I'm building
