@@ -1,4 +1,4 @@
-# Lucas Cacao Souza
+# Lucas Cacao
 
 **Software Engineer · Backend & Business Systems**
 
@@ -36,3 +36,5 @@ I bring that same approach to AI-assisted development: exploring ideas, *questio
 </table>
 
 Outside software: photography, books, and 3D printing. Currently returning to Go through study and small experiments.
+
+Brazil · Portuguese & English
