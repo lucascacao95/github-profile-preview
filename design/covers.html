@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Project cover artwork</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; }
+  .cover { width: 1200px; height: 900px; position: relative; overflow: hidden; }
+  .chapter { background: #e9eee5; color: #243b30; }
+  .roll { background: #f1e7d9; color: #493324; }
+  .eyebrow { position: absolute; left: 66px; top: 46px; margin: 0; font-size: 18px; font-weight: 600; letter-spacing: 3px; }
+  .index { position: absolute; right: 66px; top: 46px; font-size: 18px; opacity: .55; }
+  h1 { position: absolute; left: 62px; top: 93px; margin: 0; font-family: Georgia, serif; font-size: 96px; font-weight: 400; letter-spacing: -5px; line-height: 1; }
+  .roll h1 { font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif; font-weight: 650; letter-spacing: -6px; }
+  .tagline { position: absolute; left: 66px; top: 207px; margin: 0; font-size: 28px; letter-spacing: -.4px; }
+  .rule { position: absolute; right: 66px; top: 210px; width: 70px; height: 3px; background: currentColor; opacity: .35; }
+  .screen { position: absolute; left: 64px; right: 64px; top: 292px; height: 690px; border: 1px solid #00000012; border-radius: 14px 14px 0 0; background: white; box-shadow: 0 18px 60px #21332320; overflow: hidden; }
+  .screen img { width: 100%; display: block; }
+  .roll .screen img { width: 128%; max-width: none; transform: translate(-245px, -430px); }
+</style>
+<section class="cover chapter" id="chapter">
+  <p class="eyebrow">A PERSONAL READING SPACE</p><span class="index">01 / WEB</span>
+  <h1>Chapter</h1><p class="tagline">A home for my digital bookshelf.</p><span class="rule"></span>
+  <div class="screen"><img src="../assets/source/chapter-library.png" alt="Chapter library with fictional demonstration books"></div>
+</section>
+<section class="cover roll" id="roll">
+  <p class="eyebrow">A PHOTOGRAPHER'S COMPANION</p><span class="index">02 / MACOS</span>
+  <h1>Roll<span style="color:#b87134">.</span></h1><p class="tagline">From camera card to photo archive.</p><span class="rule"></span>
+  <div class="screen"><img src="../assets/source/roll-import.png" alt="Detail of Roll's native import view using generated demo images"></div>
+</section>
+</html>
