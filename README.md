@@ -1,6 +1,6 @@
 # Lucas Cacao Souza
 
-[LinkedIn ↗](https://www.linkedin.com/in/lucascacao)
+[![LinkedIn](assets/linkedin.svg)](https://www.linkedin.com/in/lucascacao)
 
 I'm a Brazilian **software engineer** working on systems with complex business rules. Much of my work involves understanding existing software, investigating problems, and improving it with care for **data integrity**.
 
